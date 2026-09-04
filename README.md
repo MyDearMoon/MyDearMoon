@@ -16,4 +16,5 @@ Student & hobbyist developer who likes building useful tools — mostly around r
 ![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 
+---
 
