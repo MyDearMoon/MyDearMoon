@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.jpg" alt="banner" width="100%" />
+</p>
 
-<!--
-**MyDearMoon/MyDearMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Student & hobbyist developer who likes building useful tools — mostly around reverse engineering, game internals, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech & Tools
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+
+
