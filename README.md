@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MyDearMoon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MyDearMoon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&exclude_repo=MLBB-Dump" alt="Top Languages" />
   <br/><br/>
   <a href="https://discord.com/users/1502105501146677315">
     <img src="https://lanyard.cnrad.dev/api/1502105501146677315?theme=dark" alt="Discord Presence" />
